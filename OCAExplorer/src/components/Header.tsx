@@ -1,7 +1,7 @@
 import React from "react";
 import { AppBar, Toolbar } from "@mui/material";
 import { Info } from "@mui/icons-material";
-import imgUrl from "../assets/images/BCID_H_rgb_rev.svg";
+import imgUrl from "../assets/images/CREDEBL_LOGO.svg";
 
 export default function Header({ callback }: { callback: () => any }) {
   const displayDesktop = (callback: () => any) => {
