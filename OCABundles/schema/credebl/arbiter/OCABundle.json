@@ -1,0 +1,85 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "country": "Text",
+        "full_name": "Text",
+        "issued_by": "Text",
+        "issued_date": "DateTime"
+      },
+      "classification": "",
+      "digest": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "country": "utf-8",
+          "full_name": "utf-8",
+          "issued_by": "utf-8",
+          "issued_date": "utf-8"
+        },
+        "capture_base": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+        "default_character_encoding": "utf-8",
+        "digest": "EhhHag-jryBwJsG_YZMB7ka07Czi_hmavlesyP4tijYA",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "country": "Country",
+          "full_name": "Full Name",
+          "issued_by": "Issued By",
+          "issued_date": "Issued Date"
+        },
+        "capture_base": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+        "category_labels": {},
+        "digest": "Ess3pFiqJttQ7WUkvkgeQLFJPDizLztebGEZ6U38PKDw",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+        "digest": "Eom18vU4S-7R86DIvU3Gn8aiF4Da_q4UN4WLCIDwgQwQ",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+        "digest": "E5dkWWxCSac5hBbFVnqXfk_K-U7QkLZ-_3ygn-ObYo04",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "E6DdQ4LkbbFW9GzodRfjpU-aaskmHGUlf6Prq5sXD4-c",
+        "credential_support_url": "https://www.worldmemorychampionships.com/",
+        "description": "Arbiter schema",
+        "digest": "EY5wxgFUaQydwa67_Nc-ytsQdyLa_V71-frpjIFFxcew",
+        "issuer": "World Memory Championship",
+        "issuer_description": "World Memory Championship",
+        "issuer_url": "https://www.worldmemorychampionships.com/",
+        "language": "en",
+        "name": "Arbiter",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/arbiter/background_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/arbiter/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/arbiter/background_image.png",
+        "primary_background_color": "#600028",
+        "secondary_background_color": "",
+        "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
