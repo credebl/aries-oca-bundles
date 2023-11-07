@@ -1,0 +1,94 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "category": "Text",
+        "country": "Text",
+        "discipline": "Text",
+        "full_name": "Text",
+        "issued_by": "Text",
+        "issued_date": "DateTime",
+        "position": "Text"
+      },
+      "classification": "",
+      "digest": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "category": "utf-8",
+          "country": "utf-8",
+          "discipline": "utf-8",
+          "full_name": "utf-8",
+          "issued_by": "utf-8",
+          "issued_date": "utf-8",
+          "position": "utf-8"
+        },
+        "capture_base": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+        "default_character_encoding": "utf-8",
+        "digest": "EhqdiBRJBh_t9PQ1vHiv_jEAnMK3D3tPbuZw4zZB3krw",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "category": "Category",
+          "country": "Country",
+          "discipline": "Discipline",
+          "full_name": "Full Name",
+          "issued_by": "Issued By",
+          "issued_date": "Issued Date",
+          "position": "Position"
+        },
+        "capture_base": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+        "category_labels": {},
+        "digest": "ECP-v4tiYz5D_7UMmZKhN_FShrR2fzJiJS3h2h3y759M",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+        "digest": "EiHjvGyA0hsrAUTdUnhYg9qB-w6lc-WMmPq3gEwiAL8A",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+        "digest": "E9h8auXAbU7ctjxF_jt2jPOzydBR8LeNFPUTNjbD5RL8",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "E9LLMxC3yNiwCyQeDxsi7IZ5oOT1E8YI8dnibXLu601M",
+        "credential_support_url": "https://www.worldmemorychampionships.com/",
+        "description": "Winner",
+        "digest": "EsYlhngOpKX15UnajZJTk_U_-6WieZFBtvPpcVliQQbg",
+        "issuer": "World Memory Championship",
+        "issuer_description": "World Memory Championship",
+        "issuer_url": "https://www.worldmemorychampionships.com/",
+        "language": "en",
+        "name": "Winner",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/winner/winner_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/winner/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/winner/background_image.png",
+        "primary_background_color": "#011641",
+        "secondary_background_color": "",
+        "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "discipline",
+        "secondary_attribute": "position",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
