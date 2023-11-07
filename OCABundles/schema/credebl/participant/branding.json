@@ -1,8 +1,8 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/participant/participant-logo.png",
-    "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/participant/background-slice.png",
-    "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/develop/OCABundles/schema/credebl/participant/background-image.png",
+    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant/participant-logo.png",
+    "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant/background-slice.png",
+    "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant/background-image.png",
     "primary_background_color": "#40004B",
     "secondary_background_color": "",
     "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
