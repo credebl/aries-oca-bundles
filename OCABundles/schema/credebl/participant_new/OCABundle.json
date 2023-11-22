@@ -1,0 +1,82 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "category": "Text",
+        "country": "Text",
+        "discipline": "Text",
+        "full_name": "Text",
+        "issued_by": "Text",
+        "issued_date": "DateTime",
+        "issued_time": "Text"
+      },
+      "classification": "",
+      "digest": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "category": "utf-8",
+          "country": "utf-8",
+          "discipline": "utf-8",
+          "full_name": "utf-8",
+          "issued_by": "utf-8",
+          "issued_date": "utf-8",
+          "issued_time": "utf-8"
+        },
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "default_character_encoding": "utf-8",
+        "digest": "EHmLEbCGjzYRtEMqdGJXc2eajGA0XaZ5wHNMKQyEBUBU",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "category": "Category",
+          "country": "Country",
+          "discipline": "Discipline",
+          "full_name": "Full Name",
+          "issued_by": "Issued By",
+          "issued_date": "Issued Date",
+          "issued_time": "Issued Time"
+        },
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "category_labels": {},
+        "digest": "Ef8m5_1799nYmdeV3TPHreaCwulK4BcIIT7iAvTWujbw",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "digest": "E8fkTJRJ1S48TbTKSyKaTDeYFxqR0RNSbR6xfM7jhH0w",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "digest": "EEcV4JRcNyLB3jxovXeaaRc4Byqflrhk9LumhGCdN8-0",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/participant-logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/background-slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/background-image.png",
+        "primary_background_color": "#40004B",
+        "secondary_background_color": "",
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "discipline",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
