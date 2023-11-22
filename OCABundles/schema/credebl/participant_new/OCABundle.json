@@ -65,6 +65,18 @@
         "type": "spec/overlays/standard/1.0"
       },
       {
+        "capture_base": "EpunnhvaZLZOTfkjxDub-V7zi8mNiD84Dr4-7rdqIysY",
+        "credential_support_url": "https://www.worldmemorychampionships.com/",
+        "description": "Participant schema",
+        "digest": "EOvFtwGTHawuQFvLvkLIlrKLwgZZc9v59NdlCTr2nJmk",
+        "issuer": "World Memory Championship",
+        "issuer_description": "World Memory Championship",
+        "issuer_url": "https://www.worldmemorychampionships.com/",
+        "language": "en",
+        "name": "Participant",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
         "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/participant-logo.png",
         "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/background-slice.png",
         "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/participant_new/background-image.png",
