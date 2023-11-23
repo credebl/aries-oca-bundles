@@ -1,0 +1,97 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "country": "Text",
+        "discipline": "Text",
+        "full_name": "Text",
+        "issued_by": "Text",
+        "issued_date": "DateTime",
+        "issued_time": "Text",
+        "record_details": "Text",
+        "world_record": "Text"
+      },
+      "classification": "",
+      "digest": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "country": "utf-8",
+          "discipline": "utf-8",
+          "full_name": "utf-8",
+          "issued_by": "utf-8",
+          "issued_date": "utf-8",
+          "issued_time": "utf-8",
+          "record_details": "utf-8",
+          "world_record": "utf-8"
+        },
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "default_character_encoding": "utf-8",
+        "digest": "EntCRukWMCuYVRm4k7TZdUw0g3fgLLSpRqvC_vNh58vg",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "country": "Country",
+          "discipline": "Discipline",
+          "full_name": "Full Name",
+          "issued_by": "Issued By",
+          "issued_date": "Issued Date",
+          "issued_time": "Issued Time",
+          "record_details": "Record Details",
+          "world_record": "World Record"
+        },
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "category_labels": {},
+        "digest": "EZC9HZTYD3SpHHLcVgsPDvRmS0NWQD2bDvSdDEpuMS6o",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "digest": "EamPHdwTR63tpL3beWnCX-0c35mHjQJdGCldwwD2wBXI",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "digest": "EwoN4SC7l3b2DU_5BLosxD30Vh8yFr-lxKfI2Zp_mMHY",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "credential_support_url": "https://www.worldmemorychampionships.com/",
+        "description": "World Record",
+        "digest": "En8tD7lLjHvMuZhLpBf9IyzeSSMemrKn3sEbW3O_R5II",
+        "issuer": "World Memory Championship",
+        "issuer_description": "World Memory Championship",
+        "issuer_url": "https://www.worldmemorychampionships.com/",
+        "language": "en",
+        "name": "World Record",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/world_record/world_record_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/world_record/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/world_record/background_image.png",
+        "primary_background_color": "#011641",
+        "secondary_background_color": "",
+        "capture_base": "EyN9OMpFt82pHelWZICOXdlAE03EJgpO_V2w58cI-b3Q",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "discipline",
+        "secondary_attribute": "record_details",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
