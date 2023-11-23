@@ -25,5 +25,6 @@
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.1": { "path": "OCABundles/schema/credebl/participant/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": { "path": "OCABundles/schema/credebl/participant_new/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.1": { "path": "OCABundles/schema/credebl/winner/OCABundle.json" },
+"TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2": { "path": "OCABundles/schema/credebl/winner_new/OCABundle.json" },
 "Ep31SvFAetugFPe5CGzJxt:2:Attestation numérique d'identité gouvernemental (EXP):1.0": { "path": "OCABundles/schema/qc_anig_demo/Attestation_numérique_didentité_gouvernemental/OCABundle.json" }
 }
