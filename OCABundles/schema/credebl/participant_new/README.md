@@ -7,9 +7,10 @@ A schema for a participant credential used for partipant of the World Memory Cha
 
 ## Identifiers
 
-| Identifier                               | Location        | URL                                                         |
-| ---------------------------------------- | --------------- | ----------------------------------------------------------- |
-| TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2 | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54551 |
+| Identifier                                      | Location        | URL                                                         |
+| ----------------------------------------------- | --------------- | ----------------------------------------------------------- |
+| TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2        | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54551 |
+| UwdddfgpXQwEgMw66zR3FH:3:CL:672:WMC Participant | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/678   |
 
 ## Authorization
 

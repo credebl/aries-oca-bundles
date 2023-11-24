@@ -7,9 +7,10 @@ A schema for a arbiter credential used for arbiter of the World Memory Champions
 
 ## Identifiers
 
-| Identifier                           | Location        | URL                                                         |
-| ------------------------------------ | --------------- | ----------------------------------------------------------- |
-| TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.2 | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54553 |
+| Identifier                                  | Location        | URL                                                         |
+| ------------------------------------------- | --------------- | ----------------------------------------------------------- |
+| TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.2        | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54553 |
+| UwdddfgpXQwEgMw66zR3FH:3:CL:669:WMC Arbiter | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/677   |
 
 ## Authorization
 

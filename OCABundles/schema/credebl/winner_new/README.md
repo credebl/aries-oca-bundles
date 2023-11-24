@@ -7,9 +7,10 @@ A schema for a winner credential used for the World Memory Championship
 
 ## Identifiers
 
-| Identifier                          | Location        | URL                                                         |
-| ----------------------------------- | --------------- | ----------------------------------------------------------- |
-| TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2 | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54552 |
+| Identifier                                 | Location        | URL                                                         |
+| ------------------------------------------ | --------------- | ----------------------------------------------------------- |
+| TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2        | indicio:demonet | https://indyscan.indiciotech.io/tx/IND_DEMONET/domain/54552 |
+| UwdddfgpXQwEgMw66zR3FH:3:CL:673:WMC Winner | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/675   |
 
 ## Authorization
 
