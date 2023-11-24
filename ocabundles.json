@@ -22,6 +22,7 @@
 "YXCtXE4YhVjULgj5hrk4ML:2:unverified_person:0.1.0": { "path": "OCABundles/schema/bcgov-digital-trust/unverified-person/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.1": { "path": "OCABundles/schema/credebl/arbiter/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.2": { "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json" },
+"PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Employment": { "path": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.1": { "path": "OCABundles/schema/credebl/participant/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": { "path": "OCABundles/schema/credebl/participant_new/OCABundle.json" },
 "TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.1": { "path": "OCABundles/schema/credebl/winner/OCABundle.json" },
