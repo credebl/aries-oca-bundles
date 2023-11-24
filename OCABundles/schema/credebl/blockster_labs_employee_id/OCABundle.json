@@ -1,0 +1,77 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "Blood Group": "Text",
+        "Employee ID": "Text",
+        "Name": "Text"
+      },
+      "classification": "",
+      "digest": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+      "flagged_attributes": ["Employee ID", "Blood Group"],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "Blood Group": "utf-8",
+          "Employee ID": "utf-8",
+          "Name": "utf-8"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "default_character_encoding": "utf-8",
+        "digest": "ETrdKd0M_ea64B5CDc6V3ybkmINrIbDyr--ZLFXnfgGk",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "Blood Group": "Blood Group",
+          "Employee ID": "Employee ID",
+          "Name": "Name"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "category_labels": {},
+        "digest": "EP5kZ5qJhYLR5RTyPpg3eUXUBgntlkGkhslk4dWlYXNw",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_information": {
+          "Blood Group": "This is the blood group of employee",
+          "Employee ID": "This is the employee id of employee",
+          "Name": "This is the full name of employee"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "digest": "EOtb4940Y6uor-Ibc_Z1PrIpciHfyt2Z95nZ42e2EneQ",
+        "language": "en",
+        "type": "spec/overlays/information/1.0"
+      },
+      {
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "credential_support_url": "https://blockster.global/",
+        "description": "This is the employee Id",
+        "digest": "E7pjlaqCp9XeylweZA3Ur1GgHOKbuTRydQXyxDGXyuDo",
+        "issuer": "Blockster Labs",
+        "issuer_description": "Blockster Labs",
+        "issuer_url": "https://blockster.global/",
+        "language": "en",
+        "name": "Employee Id",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/blockster_labs_employee_id/blockster_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/blockster_labs_employee_id/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/blockster_labs_employee_id/background_image.png",
+        "primary_background_color": "#3859A8",
+        "secondary_background_color": "",
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
