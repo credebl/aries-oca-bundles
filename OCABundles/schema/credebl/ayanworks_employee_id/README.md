@@ -15,8 +15,8 @@ A schema for a Ayanworks Employee Id credential used for the employees of the or
 
 The following are the GitHub IDs of those authorized to make substantive updates to the OCA Bundle.
 
-| OCA Bundle Contributors | GitHub ID | Email Address                        |
-| ----------------------- | --------- | ------------------------------------ |
-| Kirankalyan Kulkarni    | kkulkarni | kalyan@ayanworks.com                 |
-| Ajay Jadhav             | ajile-in  | ajay@ayanworks.com                   |
-| Sai Ranjit Tummalapalli | sairanjit | sairanjit.tummalapalli@ayanworks.com |
+| OCA Bundle Contributors | GitHub ID  | Email Address                        |
+| ----------------------- | ---------- | ------------------------------------ |
+| Kirankalyan Kulkarni    | kkkulkarni | kalyan@ayanworks.com                 |
+| Ajay Jadhav             | ajile-in   | ajay@ayanworks.com                   |
+| Sai Ranjit Tummalapalli | sairanjit  | sairanjit.tummalapalli@ayanworks.com |
