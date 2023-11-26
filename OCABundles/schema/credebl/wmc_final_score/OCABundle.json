@@ -1,0 +1,124 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "binary_digits": "Text",
+        "category": "Text",
+        "fictional_dates": "Text",
+        "full_name": "Text",
+        "hour_cards": "Text",
+        "hour_numbers": "Text",
+        "images": "Text",
+        "issued_by": "Text",
+        "issued_date": "DateTime",
+        "issued_time": "Text",
+        "names_and_faces": "Text",
+        "random_words": "Text",
+        "rank": "Text",
+        "speed_cards": "Text",
+        "speed_numbers": "Text",
+        "spoken_numbers": "Text",
+        "total_points": "Text"
+      },
+      "classification": "",
+      "digest": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "binary_digits": "utf-8",
+          "category": "utf-8",
+          "fictional_dates": "utf-8",
+          "full_name": "utf-8",
+          "hour_cards": "utf-8",
+          "hour_numbers": "utf-8",
+          "images": "utf-8",
+          "issued_by": "utf-8",
+          "issued_date": "utf-8",
+          "issued_time": "utf-8",
+          "names_and_faces": "utf-8",
+          "random_words": "utf-8",
+          "rank": "utf-8",
+          "speed_cards": "utf-8",
+          "speed_numbers": "utf-8",
+          "spoken_numbers": "utf-8",
+          "total_points": "utf-8"
+        },
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "default_character_encoding": "utf-8",
+        "digest": "E3ThdqBfkvp4LiAd7y7uxpGwsWjsQaGSoArwTjukN1g4",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "binary_digits": "Binary Digits",
+          "category": "Country",
+          "fictional_dates": "Fictional Dates",
+          "full_name": "Full Name",
+          "hour_cards": "Hour Cards",
+          "hour_numbers": "Hour Numbers",
+          "images": "Images",
+          "issued_by": "Category",
+          "issued_date": "Issued By",
+          "issued_time": "Discipline",
+          "names_and_faces": "Names and Faces",
+          "random_words": "Random Words",
+          "rank": "Issued Date",
+          "speed_cards": "Speed Cards",
+          "speed_numbers": "Speed Numbers",
+          "spoken_numbers": "Spoken Numbers",
+          "total_points": "Issued Time"
+        },
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "category_labels": {},
+        "digest": "EulCw_U22VhJiqW57HLI3gQf-5ls2vqOqRx6gHLcWXUI",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "digest": "EH5GTwqe-B-CUt86atWJAW_rYu6t1OdPohSSRfJz2qSI",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "digest": "ERVLAnWMsNGCAj7XPzLYR4i47ygg4hV1r_HgD9cwm2ys",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "credential_support_url": "https://www.worldmemorychampionships.com/",
+        "description": " WMC Final Score schema",
+        "digest": "E5HcT8CCRDgODDThSmVJrOuFwiFRooyhFaHu7BUqqoL4",
+        "issuer": "World Memory Championship",
+        "issuer_description": "World Memory Championship",
+        "issuer_url": "https://www.worldmemorychampionships.com/",
+        "language": "en",
+        "name": "WMC Final Score",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/participant-logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/background-slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/background-image.png",
+        "primary_background_color": "#A800BD",
+        "secondary_background_color": "",
+        "capture_base": "EloSXghV6yOAUuAlL-nB--6WF2lGYFqIL5caAIMwVPos",
+        "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+        "expiry_date_attribute": "",
+        "primary_attribute": "rank",
+        "secondary_attribute": "total_points",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]

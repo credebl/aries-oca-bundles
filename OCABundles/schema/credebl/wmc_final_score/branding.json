@@ -1,0 +1,15 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/participant-logo.png",
+    "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/background-slice.png",
+    "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/wmc_final_score/background-image.png",
+    "primary_background_color": "#A800BD",
+    "secondary_background_color": "",
+    "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
+    "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+    "expiry_date_attribute": "",
+    "primary_attribute": "rank",
+    "secondary_attribute": "total_points",
+    "type": "aries/overlays/branding/1.0"
+  }
+]
