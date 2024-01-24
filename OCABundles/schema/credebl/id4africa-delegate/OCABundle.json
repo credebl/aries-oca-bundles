@@ -53,12 +53,12 @@
       },
       {
         "capture_base": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
-        "description": "Speaker Schema",
+        "description": "Delegate Schema",
         "digest": "EhDVMYPFMHlMD2pw8-sYfK6PB3or47jGc8JK8a90kRiw",
         "issuer": "ID4Africa",
         "issuer_description": "ID4Africa",
         "language": "en",
-        "name": "Speaker",
+        "name": "Delegate",
         "type": "spec/overlays/meta/1.0"
       },
       {
