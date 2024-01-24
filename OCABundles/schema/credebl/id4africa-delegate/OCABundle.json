@@ -1,0 +1,79 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "country": "Text",
+        "email": "Text",
+        "full_name": "Text",
+        "gender": "Text",
+        "id4africaid": "Text",
+        "identity_category": "Text",
+        "organization": "Text",
+        "phone": "Text"
+      },
+      "classification": "",
+      "digest": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "country": "utf-8",
+          "email": "utf-8",
+          "full_name": "utf-8",
+          "gender": "utf-8",
+          "id4africaid": "utf-8",
+          "identity_category": "utf-8",
+          "organization": "utf-8",
+          "phone": "utf-8"
+        },
+        "capture_base": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
+        "default_character_encoding": "utf-8",
+        "digest": "EM5tuuGKhNg-s46r36xbj-z-3ywodNGEdZgWVqlyziP4",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "country": "Country",
+          "email": "Email",
+          "full_name": "Full Name",
+          "gender": "Gender",
+          "id4africaid": "ID4AfricaID",
+          "identity_category": "Identity Category",
+          "organization": "Organization",
+          "phone": "Phone"
+        },
+        "capture_base": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
+        "category_labels": {},
+        "digest": "EAfsD1hVWfxgb-LCo5Ym6mKe7v0m7o128a7sAbo-Psxw",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "capture_base": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
+        "description": "Speaker Schema",
+        "digest": "EhDVMYPFMHlMD2pw8-sYfK6PB3or47jGc8JK8a90kRiw",
+        "issuer": "ID4Africa",
+        "issuer_description": "ID4Africa",
+        "language": "en",
+        "name": "Speaker",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/id4africa_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/background_image.png",
+        "primary_background_color": "#041AF9",
+        "secondary_background_color": "",
+        "capture_base": "Evfhi87Nnm_Xc3xe3woUnSlwP3PGTd4wVmyTteHZVwD8",
+        "digest": "EhDVMYPFMHlMD2pw8-sYfK6PB3or47jGc8JK8a90kRiw",
+        "expiry_date_attribute": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]

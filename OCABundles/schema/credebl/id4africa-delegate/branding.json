@@ -1,0 +1,15 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/id4africa_logo.png",
+    "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/background_slice.png",
+    "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/id4africa-delegate/background_image.png",
+    "primary_background_color": "#041AF9",
+    "secondary_background_color": "",
+    "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
+    "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
+    "expiry_date_attribute": "",
+    "primary_attribute": "",
+    "secondary_attribute": "",
+    "type": "aries/overlays/branding/1.0"
+  }
+]
