@@ -1,40 +1,44 @@
 {
-"4DsheHjrS8kbzw4Rd8Peym:2:Digital Business Card:1.0.0": { "path": "OCABundles/schema/bcgov-digital-trust/business-card/OCABundle.json" },
-"4xE68b6S5VRFrKMMG1U95M:3:CL:59232:default": { "path": "OCABundles/schema/bcgov-digital-trust/member-card/OCABundle.json" },
-"L6ASjmDDbDH7yPL1t2yFj9:2:member_card:1.53": { "path": "OCABundles/schema/bcgov-digital-trust/member-card-showcase/OCABundle.json" },
-"M6dhuFj5UwbhWkSLmvYSPc:2:member_card:1.53": { "path": "OCABundles/schema/bcgov-digital-trust/member-card-showcase/OCABundle.json" },
-"QEquAHkM35w4XVT3Ku5yat:2:member_card:1.53": { "path": "OCABundles/schema/bcgov-digital-trust/member-card-showcase/OCABundle.json" },
-"AuJrigKQGRLJajKAebTgWu:3:CL:209526:default": { "path": "OCABundles/schema/bcgov-digital-trust/member-card-showcase/OCABundle.json" },
-"S7S2wzcF2giKuwxdeLBk69:2:mines-act-permit:0.3": { "path": "OCABundles/schema/bcgov-digital-trust/mines-act-permit/OCABundle.json" },
-"KCxVC8GkKywjhWJnUfCmkW:3:CL:20:PersonQA": { "path": "OCABundles/schema/bcgov-digital-trust/person/OCABundle.json" },
-"7xjfawcnyTUcduWVysLww5:3:CL:28075:PersonSIT": { "path": "OCABundles/schema/bcgov-digital-trust/person/OCABundle.json" },
-"XpgeQa93eZvGSZBZef3PHn:3:CL:28075:PersonDEV": { "path": "OCABundles/schema/bcgov-digital-trust/person/OCABundle.json" },
-"RGjWbW1eycP7FrMf4QJvX8:3:CL:13:Person": { "path": "OCABundles/schema/bcgov-digital-trust/person/OCABundle.json" },
-"L6ASjmDDbDH7yPL1t2yFj9:2:Person:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/person-showcase/OCABundle.json" },
-"M6dhuFj5UwbhWkSLmvYSPc:2:Person:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/person-showcase/OCABundle.json" },
-"QEquAHkM35w4XVT3Ku5yat:2:Person:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/person-showcase/OCABundle.json" },
-"Mp2pDQqS2eSjNVA7kXc8ut:2:BC VC Pilot Certificate:1.0.1": { "path": "OCABundles/schema/bcgov-digital-trust/pilot/OCABundle.json" },
-"4zBepKVWZcGTzug4X49vAN:2:BC VC Pilot Certificate:1.0.1": { "path": "OCABundles/schema/bcgov-digital-trust/pilot/OCABundle.json" },
-"E2h4RUJxyh48PLJ1CtGJrq:2:BC VC Pilot Certificate:1.0.1": { "path": "OCABundles/schema/bcgov-digital-trust/pilot/OCABundle.json" },
-"L6ASjmDDbDH7yPL1t2yFj9:2:student_card:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/student-card/OCABundle.json" },
-"M6dhuFj5UwbhWkSLmvYSPc:2:student_card:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/student-card/OCABundle.json" },
-"QEquAHkM35w4XVT3Ku5yat:2:student_card:1.2": { "path": "OCABundles/schema/bcgov-digital-trust/student-card/OCABundle.json" },
-"YXCtXE4YhVjULgj5hrk4ML:2:unverified_person:0.1.0": { "path": "OCABundles/schema/bcgov-digital-trust/unverified-person/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.1": { "path": "OCABundles/schema/credebl/arbiter/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.2": { "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json" },
-"UwdddfgpXQwEgMw66zR3FH:3:CL:669:WMC Arbiter": { "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json" },
-"PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Employment": { "path": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json" },
-"HunPZjBW3msPS2FUVF41mC:3:CL:666:Blockster Employment VC": { "path": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json" },
-"GWsYMNu1gqw6KQxMyJbFuh:2:Delegate:1.0": { "path": "OCABundles/schema/credebl/id4africa-delegate/OCABundle.json" },
-"GWsYMNu1gqw6KQxMyJbFuh:2:Speaker:1.0": { "path": "OCABundles/schema/credebl/id4africa-speaker/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.1": { "path": "OCABundles/schema/credebl/participant/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": { "path": "OCABundles/schema/credebl/participant_new/OCABundle.json" },
-"UwdddfgpXQwEgMw66zR3FH:3:CL:672:WMC Participant": { "path": "OCABundles/schema/credebl/participant_new/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.1": { "path": "OCABundles/schema/credebl/winner/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2": { "path": "OCABundles/schema/credebl/winner_new/OCABundle.json" },
-"UwdddfgpXQwEgMw66zR3FH:3:CL:673:WMC Winner": { "path": "OCABundles/schema/credebl/winner_new/OCABundle.json" },
-"UwdddfgpXQwEgMw66zR3FH:3:CL:681:WMC Final Score": { "path": "OCABundles/schema/credebl/wmc_final_score/OCABundle.json" },
-"TfGSZ1rWA4kk8npaaSg7Ca:2:WorldRecord:1.2": { "path": "OCABundles/schema/credebl/world_record/OCABundle.json" },
-"UwdddfgpXQwEgMw66zR3FH:3:CL:674:WMC World Record": { "path": "OCABundles/schema/credebl/world_record/OCABundle.json" },
-"Ep31SvFAetugFPe5CGzJxt:2:Attestation numérique d'identité gouvernemental (EXP):1.0": { "path": "OCABundles/schema/qc_anig_demo/Attestation_numérique_didentité_gouvernemental/OCABundle.json" }
+  "TfGSZ1rWA4kk8npaaSg7Ca:2:Arbiter:1.2": {
+    "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json"
+  },
+  "UwdddfgpXQwEgMw66zR3FH:3:CL:669:WMC Arbiter": {
+    "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json"
+  },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Employment": {
+    "path": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json"
+  },
+  "HunPZjBW3msPS2FUVF41mC:3:CL:666:Blockster Employment VC": {
+    "path": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json"
+  },
+  "GWsYMNu1gqw6KQxMyJbFuh:2:Delegate:1.0": {
+    "path": "OCABundles/schema/credebl/id4africa-delegate/OCABundle.json"
+  },
+  "GWsYMNu1gqw6KQxMyJbFuh:2:Speaker:1.0": {
+    "path": "OCABundles/schema/credebl/id4africa-speaker/OCABundle.json"
+  },
+  "HRErfkfvFYhM8DBwP63ard:2:Abc University Grade Card:1.1.1": {
+    "path": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json"
+  },
+  "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": {
+    "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
+  },
+  "UwdddfgpXQwEgMw66zR3FH:3:CL:672:WMC Participant": {
+    "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
+  },
+  "TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2": {
+    "path": "OCABundles/schema/credebl/winner_new/OCABundle.json"
+  },
+  "UwdddfgpXQwEgMw66zR3FH:3:CL:673:WMC Winner": {
+    "path": "OCABundles/schema/credebl/winner_new/OCABundle.json"
+  },
+  "UwdddfgpXQwEgMw66zR3FH:3:CL:681:WMC Final Score": {
+    "path": "OCABundles/schema/credebl/wmc_final_score/OCABundle.json"
+  },
+  "TfGSZ1rWA4kk8npaaSg7Ca:2:WorldRecord:1.2": {
+    "path": "OCABundles/schema/credebl/world_record/OCABundle.json"
+  },
+  "UwdddfgpXQwEgMw66zR3FH:3:CL:674:WMC World Record": {
+    "path": "OCABundles/schema/credebl/world_record/OCABundle.json"
+  }
 }
