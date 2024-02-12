@@ -7,9 +7,9 @@ A schema for a University Grade Card
 
 ## Identifiers
 
-| Identifier                                               | Location     | URL                                                            |
-| -------------------------------------------------------- | ------------ | -------------------------------------------------------------- |
-| HRErfkfvFYhM8DBwP63ard:2:Abc University Grade Card:1.1.1 | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/261452 |
+| Identifier                                      | Location     | URL                                                            |
+| ----------------------------------------------- | ------------ | -------------------------------------------------------------- |
+| 824j3cS9f1e6goojworHV3:2:MTech Grade Card:2.1.1 | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/261452 |
 
 ## Authorization
 
