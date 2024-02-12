@@ -1,0 +1,101 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "academic_year": "Text",
+        "course_details": "Text",
+        "cummulative_semester_performance-SGA": "Text",
+        "cummulative_semester_performance-credits_earned": "Text",
+        "current_semester_performance-SGA": "Text",
+        "current_semester_performance-credits_earned": "Text",
+        "date": "Text",
+        "programme": "Text",
+        "registration_no": "Text",
+        "semester": "Text",
+        "sl_no": "Text",
+        "student_name": "Text",
+        "type": "Text",
+        "university_address": "Text",
+        "university_name": "Text",
+        "year": "Text"
+      },
+      "classification": "",
+      "digest": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "academic_year": "utf-8",
+          "course_details": "utf-8",
+          "cummulative_semester_performance-SGA": "utf-8",
+          "cummulative_semester_performance-credits_earned": "utf-8",
+          "current_semester_performance-SGA": "utf-8",
+          "current_semester_performance-credits_earned": "utf-8",
+          "date": "utf-8",
+          "programme": "utf-8",
+          "registration_no": "utf-8",
+          "semester": "utf-8",
+          "sl_no": "utf-8",
+          "student_name": "utf-8",
+          "type": "utf-8",
+          "university_address": "utf-8",
+          "university_name": "utf-8",
+          "year": "utf-8"
+        },
+        "capture_base": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+        "default_character_encoding": "utf-8",
+        "digest": "ExH2JLgD-jsCxKYVwM53eZ_lyD0DDvDXymMeDj4tYXPQ",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "academic_year": "Academic Year",
+          "course_details": "Course",
+          "cummulative_semester_performance-SGA": "Cummulative Semester Performance-SGA",
+          "cummulative_semester_performance-credits_earned": "Cummulative Semester Performance-Credits Earned",
+          "current_semester_performance-SGA": "Current Semester Performance-SGA",
+          "current_semester_performance-credits_earned": "Current Semester Performance-Credits Earned",
+          "date": "Date",
+          "programme": "Programme",
+          "registration_no": "Registration Number",
+          "semester": "Semester",
+          "sl_no": "Serial Number",
+          "student_name": "Student Name",
+          "type": "Type",
+          "university_address": "University Address",
+          "university_name": "University Name",
+          "year": "Year"
+        },
+        "capture_base": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+        "category_labels": {},
+        "digest": "E-y5z0YwIPG9xAfwaistELbEsyhczRH6--MeDVx4CKVc",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "capture_base": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+        "description": "MTech Grade Card Schema",
+        "digest": "EumXvijNoMBB0eF6GpRuwNtbB5xhLHcaotlyrwflaJpE",
+        "language": "en",
+        "name": "MTech Grade Card",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/background_slice.jpg",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/background_image.jpg",
+        "primary_background_color": "#32674E",
+        "secondary_background_color": "",
+        "capture_base": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+        "digest": "EumXvijNoMBB0eF6GpRuwNtbB5xhLHcaotlyrwflaJpE",
+        "expiry_date_attribute": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
