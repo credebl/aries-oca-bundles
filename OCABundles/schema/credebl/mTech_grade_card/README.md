@@ -9,7 +9,7 @@ A schema for a University Grade Card
 
 | Identifier                                      | Location     | URL                                                            |
 | ----------------------------------------------- | ------------ | -------------------------------------------------------------- |
-| 824j3cS9f1e6goojworHV3:2:MTech Grade Card:2.1.1 | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/261452 |
+| N518iWxr9XUwEgZK573jnt:2:MTech Grade Card:1.0.0 | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/261452 |
 
 ## Authorization
 

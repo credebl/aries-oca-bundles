@@ -14,13 +14,12 @@
         "SL No": "Text",
         "Semester": "Text",
         "Student Name": "Text",
-        "Type": "Text",
         "University Address": "Text",
         "University Name": "Text",
         "Year": "Text"
       },
       "classification": "",
-      "digest": "EIfJC9egpjmvB6oGw4faTELATebrjkwhKozgvmvPaOPY",
+      "digest": "Ej-hg178n_vRcVNvetXi9xt9f23XclW6HVigkroZkzxE",
       "flagged_attributes": [],
       "type": "spec/capture_base/1.0"
     },
@@ -39,14 +38,13 @@
           "SL No": "utf-8",
           "Semester": "utf-8",
           "Student Name": "utf-8",
-          "Type": "utf-8",
           "University Address": "utf-8",
           "University Name": "utf-8",
           "Year": "utf-8"
         },
-        "capture_base": "EIfJC9egpjmvB6oGw4faTELATebrjkwhKozgvmvPaOPY",
+        "capture_base": "Ej-hg178n_vRcVNvetXi9xt9f23XclW6HVigkroZkzxE",
         "default_character_encoding": "utf-8",
-        "digest": "E4KAYXPNj80QPNp4hfXG2IOt5MvYKflCbI4x6m6PvqGg",
+        "digest": "EUi3K2XPiO8HkKVZnpdnquiNcKlYlrvUfB5Pat0Q3o7M",
         "type": "spec/overlays/character_encoding/1.0"
       },
       {
@@ -64,21 +62,20 @@
           "SL No": "SL No",
           "Semester": "Semester",
           "Student Name": "Student Name",
-          "Type": "Type",
           "University Address": "University Address",
           "University Name": "University Name",
           "Year": "Year"
         },
-        "capture_base": "EIfJC9egpjmvB6oGw4faTELATebrjkwhKozgvmvPaOPY",
+        "capture_base": "Ej-hg178n_vRcVNvetXi9xt9f23XclW6HVigkroZkzxE",
         "category_labels": {},
-        "digest": "EMVu1ssHIfu5GuaKFG7eccFbJvUkuwEC9wp_oG_ksUEI",
+        "digest": "ErTYTbrcnCICMhYnUhhn4uWg2COuLY5_iz3PYVdnJefg",
         "language": "en",
         "type": "spec/overlays/label/1.0"
       },
       {
-        "capture_base": "EIfJC9egpjmvB6oGw4faTELATebrjkwhKozgvmvPaOPY",
+        "capture_base": "Ej-hg178n_vRcVNvetXi9xt9f23XclW6HVigkroZkzxE",
         "description": "MTech Grade Card Schema",
-        "digest": "EtCs82uc86H-srSk3rYplMXv_iuo12xNP6vZMyHmebZU",
+        "digest": "ENIzsJf9Q68njKgyMd_iilBbKY7ZrJT2-zsMfd8PSFLA",
         "language": "en",
         "name": "MTech Grade Card",
         "type": "spec/overlays/meta/1.0"
@@ -89,8 +86,8 @@
         "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/background_image.jpg",
         "primary_background_color": "#32674E",
         "secondary_background_color": "",
-        "capture_base": "EIfJC9egpjmvB6oGw4faTELATebrjkwhKozgvmvPaOPY",
-        "digest": "EtCs82uc86H-srSk3rYplMXv_iuo12xNP6vZMyHmebZU",
+        "capture_base": "ENIzsJf9Q68njKgyMd_iilBbKY7ZrJT2-zsMfd8PSFLA",
+        "digest": "ENIzsJf9Q68njKgyMd_iilBbKY7ZrJT2-zsMfd8PSFLA",
         "expiry_date_attribute": "",
         "primary_attribute": "",
         "secondary_attribute": "",
