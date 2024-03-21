@@ -1,0 +1,77 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "Blood Group": "Text",
+        "Employee ID": "Text",
+        "Name": "Text"
+      },
+      "classification": "",
+      "digest": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+      "flagged_attributes": ["Employee ID", "Blood Group"],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "Blood Group": "utf-8",
+          "Employee ID": "utf-8",
+          "Name": "utf-8"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "default_character_encoding": "utf-8",
+        "digest": "ETrdKd0M_ea64B5CDc6V3ybkmINrIbDyr--ZLFXnfgGk",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "Blood Group": "Blood Group",
+          "Employee ID": "Visitor ID",
+          "Name": "Name"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "category_labels": {},
+        "digest": "EIUxNwRd5O8BMhtHVKvx5p_frLYJUNk2bAWoWl9I05_A",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_information": {
+          "Blood Group": "This is the blood group of visitor",
+          "Employee ID": "This is the visitor id",
+          "Name": "This is the full name of visitor"
+        },
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "digest": "EzHrHJcNoQ81-cO6wH_E5eRBsjHfH5Y--Jrfv-fNitj4",
+        "language": "en",
+        "type": "spec/overlays/information/1.0"
+      },
+      {
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "credential_support_url": "https://ayanworks.com/",
+        "description": "This is the visitor Id",
+        "digest": "E4-_PDm9ypMCfoj2L_AbPCugmY-rRlPhMZH27_-MTT-Y",
+        "issuer": "AyanWorks",
+        "issuer_description": "AyanWorks Technology Solutions",
+        "issuer_url": "https://ayanworks.com/",
+        "language": "en",
+        "name": "Visitor Id",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_visitor_id/ayanworks_logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_visitor_id/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_visitor_id/background_image.png",
+        "primary_background_color": "#7A4DE5",
+        "secondary_background_color": "",
+        "capture_base": "EH9U5OIJuoNpYWJmIGk6o-8w8XVN7u3PYmetjifZp9oI",
+        "digest": "E4-_PDm9ypMCfoj2L_AbPCugmY-rRlPhMZH27_-MTT-Y",
+        "expiry_date_attribute": "",
+        "primary_attribute": "Employee ID",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]

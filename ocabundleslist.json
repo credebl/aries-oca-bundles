@@ -11,7 +11,7 @@
     "name": "Pinnacle Performer Credential",
     "desc": "A schema for a Pinnacle Performer credential used for the employees of the organization",
     "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json"
+    "ocabundle": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json"
   },
   {
     "org": "AyanWorks Technology Solutions",
@@ -25,7 +25,14 @@
     "name": "Appreciation Certificate Credential",
     "desc": "A schema for a Appreciation Certificate credential used for the employees of the organization",
     "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json"
+    "ocabundle": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json"
+  },
+  {
+    "org": "AyanWorks Technology Solutions",
+    "name": "Ayanworks Visitor Id Credential",
+    "desc": "A schema for a Ayanworks Visitor Id credential used for the visitors of the organization",
+    "type": "schema",
+    "ocabundle": "OCABundles/schema/credebl/ayanworks_visitor_id/OCABundle.json"
   },
   {
     "org": "Blockster Labs",
