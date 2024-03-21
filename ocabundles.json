@@ -5,8 +5,14 @@
   "UwdddfgpXQwEgMw66zR3FH:3:CL:669:WMC Arbiter": {
     "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json"
   },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:PinnacleCertificate": {
+    "path": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json"
+  },
   "PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Employment": {
     "path": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json"
+  },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:AppreciationCertificate": {
+    "path": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json"
   },
   "HunPZjBW3msPS2FUVF41mC:3:CL:666:Blockster Employment VC": {
     "path": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json"

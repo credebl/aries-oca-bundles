@@ -1,0 +1,91 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "category": "Text",
+        "description": "Text",
+        "email": "Text",
+        "employee_id": "Text",
+        "issued_date": "DateTime",
+        "name": "Text"
+      },
+      "classification": "",
+      "digest": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+      "flagged_attributes": ["employee_id"],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "category": "utf-8",
+          "description": "utf-8",
+          "email": "utf-8",
+          "employee_id": "utf-8",
+          "issued_date": "utf-8",
+          "name": "utf-8"
+        },
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "default_character_encoding": "utf-8",
+        "digest": "Eno1h7Rul_45M3ENKMqnIdj4qvFlyYCP0MvrjMpghnxQ",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "category": "Category",
+          "description": "Description",
+          "email": "Email",
+          "employee_id": "Employee Id",
+          "issued_date": "Issued Date",
+          "name": "Name"
+        },
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "category_labels": {},
+        "digest": "EziVSg2w7zN6TdDx2ZgZ2k3GIcxkl2u8_lSWdO-mXN7Q",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_formats": {
+          "issued_date": "YYYYMMDD"
+        },
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "digest": "EAocRDkaAb5lNpGpsB4-s0ihEQggW6aTtJ0oC9abQ3Zk",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {
+          "issued_date": "urn:iso:std:iso:1989"
+        },
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "digest": "EKbRoA_cEsUiafR7swWCnJfDE0Y4_xML5pKHH4Yfcvj0",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "credential_support_url": "https://ayanworks.com/",
+        "description": "This is Appreciation Certificate",
+        "digest": "Eeyafu05yDfJY_c7_QWibYSE5FSuYmRZqX_R0sxwtXqY",
+        "issuer": "AyanWorks",
+        "issuer_description": "AyanWorks Technology Solutions",
+        "issuer_url": "https://ayanworks.com/",
+        "language": "en",
+        "name": "Appreciation Certificate",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_appreciation_certificate/logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_appreciation_certificate/background_slice.png",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_appreciation_certificate/background_image.png",
+        "primary_background_color": "#7A4DE5",
+        "secondary_background_color": "",
+        "capture_base": "EjYqqRL92ODlqyeduYxGtN8VX7DRzRfzvLLLwiEbL-jk",
+        "digest": "Eeyafu05yDfJY_c7_QWibYSE5FSuYmRZqX_R0sxwtXqY",
+        "expiry_date_attribute": "",
+        "primary_attribute": "category",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]
