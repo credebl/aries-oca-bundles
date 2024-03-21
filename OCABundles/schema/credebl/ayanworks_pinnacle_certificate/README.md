@@ -7,9 +7,9 @@ A schema for a Appreciation Certificate credential used for the employees of the
 
 ## Identifiers
 
-| Identifier                                              | Location        | URL                                                       |
-| ------------------------------------------------------- | --------------- | --------------------------------------------------------- |
-| PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:AppreciationCertificate | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/832 |
+| Identifier                                          | Location        | URL                                                       |
+| --------------------------------------------------- | --------------- | --------------------------------------------------------- |
+| PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:PinnacleCertificate | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/833 |
 
 ## Authorization
 

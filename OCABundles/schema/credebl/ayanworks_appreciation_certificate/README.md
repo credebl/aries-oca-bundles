@@ -7,9 +7,9 @@ A schema for a Pinnacle Performer credential used for the employees of the organ
 
 ## Identifiers
 
-| Identifier                                          | Location        | URL                                                       |
-| --------------------------------------------------- | --------------- | --------------------------------------------------------- |
-| PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:PinnacleCertificate | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/833 |
+| Identifier                                              | Location        | URL                                                       |
+| ------------------------------------------------------- | --------------- | --------------------------------------------------------- |
+| PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:AppreciationCertificate | indicio:mainnet | https://indyscan.indiciotech.io/tx/IND_MAINNET/domain/832 |
 
 ## Authorization
 
