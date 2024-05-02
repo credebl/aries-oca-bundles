@@ -1,0 +1,74 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "Course Code": "Text",
+        "Course Name": "Text",
+        "Date": "Text",
+        "SL No": "Text",
+        "Specialization": "Text",
+        "Student Name": "Text",
+        "Year Of Passing": "Text"
+      },
+      "classification": "",
+      "digest": "EC5H6h3vdALUIt7dS5pGhW4N3_t_cv_im0fRylQLH7Go",
+      "flagged_attributes": [],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "Course Code": "utf-8",
+          "Course Name": "utf-8",
+          "Date": "utf-8",
+          "SL No": "utf-8",
+          "Specialization": "utf-8",
+          "Student Name": "utf-8",
+          "Year Of Passing": "utf-8"
+        },
+        "capture_base": "EC5H6h3vdALUIt7dS5pGhW4N3_t_cv_im0fRylQLH7Go",
+        "default_character_encoding": "utf-8",
+        "digest": "EK9jOFDYvLSOZ0pW0ZGbkQt-ELl9kJfgae0bl1feoHHQ",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "Course Code": "Course Code",
+          "Course Name": "Course Name",
+          "Date": "Date",
+          "SL No": "SL No",
+          "Specialization": "Specialization",
+          "Student Name": "Student Name",
+          "Year Of Passing": "Year Of Passing"
+        },
+        "capture_base": "EC5H6h3vdALUIt7dS5pGhW4N3_t_cv_im0fRylQLH7Go",
+        "category_labels": {},
+        "digest": "E10lVEnKOobrO5I_WkEZ8Az8t9c15c4UTLbxxRowJzDE",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "capture_base": "EC5H6h3vdALUIt7dS5pGhW4N3_t_cv_im0fRylQLH7Go",
+        "description": "Post Graduate Diploma Schema",
+        "digest": "EUtTYluaWqi0_JtHIR3acBpni_Dyxej-JBcXNtROZI94",
+        "language": "en",
+        "name": "Post Graduate Diploma",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_slice.jpg",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_image.jpg",
+        "primary_background_color": "#32674E",
+        "secondary_background_color": "",
+        "capture_base": "EC5H6h3vdALUIt7dS5pGhW4N3_t_cv_im0fRylQLH7Go",
+        "digest": "EUtTYluaWqi0_JtHIR3acBpni_Dyxej-JBcXNtROZI94",
+        "expiry_date_attribute": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "type": "aries/overlays/branding/1.0"
+      }
+    ]
+  }
+]

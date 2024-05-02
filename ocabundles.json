@@ -20,11 +20,17 @@
   "N518iWxr9XUwEgZK573jnt:2:MTech Grade Card:1.0.0": {
     "path": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json"
   },
+  "6jMAXHG6xkPc2diaDYcnY4:2:MTech Marksheet:1.0.0": {
+    "path": "OCABundles/schema/credebl/mTech_grade_card_1/OCABundle.json"
+  },
   "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": {
     "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
   },
   "UwdddfgpXQwEgMw66zR3FH:3:CL:672:WMC Participant": {
     "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
+  },
+  "6jMAXHG6xkPc2diaDYcnY4:2:Post Graduate Diploma:1.0.0": {
+    "path": "OCABundles/schema/credebl/post_graduate_diploma/OCABundle.json"
   },
   "TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2": {
     "path": "OCABundles/schema/credebl/winner_new/OCABundle.json"
