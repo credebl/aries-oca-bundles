@@ -81,9 +81,9 @@
         "type": "spec/overlays/meta/1.0"
       },
       {
-        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/logo.png",
-        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/background_slice.jpg",
-        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card/background_image.jpg",
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card_1/logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card_1/background_slice.jpg",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/mTech_grade_card_1/background_image.jpg",
         "primary_background_color": "#32674E",
         "secondary_background_color": "",
         "capture_base": "Ej-hg178n_vRcVNvetXi9xt9f23XclW6HVigkroZkzxE",
