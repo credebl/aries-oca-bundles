@@ -8,31 +8,10 @@
   },
   {
     "org": "AyanWorks Technology Solutions",
-    "name": "Pinnacle Performer Credential",
-    "desc": "A schema for a Pinnacle Performer credential used for the employees of the organization",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json"
-  },
-  {
-    "org": "AyanWorks Technology Solutions",
     "name": "Ayanworks Employee Id Credential",
     "desc": "A schema for a Ayanworks Employee Id credential used for the employees of the organization",
     "type": "schema",
     "ocabundle": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json"
-  },
-  {
-    "org": "AyanWorks Technology Solutions",
-    "name": "Appreciation Certificate Credential",
-    "desc": "A schema for a Appreciation Certificate credential used for the employees of the organization",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json"
-  },
-  {
-    "org": "AyanWorks Technology Solutions",
-    "name": "Ayanworks Visitor Id Credential",
-    "desc": "A schema for a Ayanworks Visitor Id credential used for the visitors of the organization",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_visitor_id/OCABundle.json"
   },
   {
     "org": "Blockster Labs",
@@ -63,11 +42,25 @@
     "ocabundle": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json"
   },
   {
+    "org": "University Grade Card",
+    "name": "University Grade Card",
+    "desc": "A schema for a University Grade Card",
+    "type": "schema",
+    "ocabundle": "OCABundles/schema/credebl/mTech_grade_card_1/OCABundle.json"
+  },
+  {
     "org": "World Memory Championship",
     "name": "Participant Credential",
     "desc": "A schema for a participant credential used for partipant of the World Memory Championship",
     "type": "schema",
     "ocabundle": "OCABundles/schema/credebl/participant_new/OCABundle.json"
+  },
+  {
+    "org": "University",
+    "name": "Post Graduate Diploma",
+    "desc": "A schema for a Post Graduate Diploma",
+    "type": "schema",
+    "ocabundle": "OCABundles/schema/credebl/post_graduate_diploma/OCABundle.json"
   },
   {
     "org": "World Memory Championship",
