@@ -5,8 +5,17 @@
   "UwdddfgpXQwEgMw66zR3FH:3:CL:669:WMC Arbiter": {
     "path": "OCABundles/schema/credebl/arbiter_new/OCABundle.json"
   },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:AppreciationCertificate": {
+    "path": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json"
+  },
   "PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Employment": {
     "path": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json"
+  },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:831:PinnacleCertificate": {
+    "path": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json"
+  },
+  "PKDMuYSzJE22Jkh4B1EMiX:3:CL:666:AyanWorks Visitor": {
+    "path": "OCABundles/schema/credebl/ayanworks_visitor_id/OCABundle.json"
   },
   "HunPZjBW3msPS2FUVF41mC:3:CL:666:Blockster Employment VC": {
     "path": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json"
@@ -20,11 +29,17 @@
   "N518iWxr9XUwEgZK573jnt:2:MTech Grade Card:1.0.0": {
     "path": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json"
   },
+  "6jMAXHG6xkPc2diaDYcnY4:2:MTech Marksheet:1.0.0": {
+    "path": "OCABundles/schema/credebl/mTech_grade_card_1/OCABundle.json"
+  },
   "TfGSZ1rWA4kk8npaaSg7Ca:2:Participant:1.2": {
     "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
   },
   "UwdddfgpXQwEgMw66zR3FH:3:CL:672:WMC Participant": {
     "path": "OCABundles/schema/credebl/participant_new/OCABundle.json"
+  },
+  "6jMAXHG6xkPc2diaDYcnY4:2:Post Graduate Diploma:1.0.0": {
+    "path": "OCABundles/schema/credebl/post_graduate_diploma/OCABundle.json"
   },
   "TfGSZ1rWA4kk8npaaSg7Ca:2:Winner:1.2": {
     "path": "OCABundles/schema/credebl/winner_new/OCABundle.json"
